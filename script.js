@@ -15,7 +15,7 @@ async function randomqn(){
 
   question = document.getElementById("question")
   
-  const response = await fetch("http://192.168.0.111:5500/questions.json")
+  const response = await fetch("https://raw.githubusercontent.com/thenithinbalaji/YES-or-NO/main/assets/questions.json")
   const data = await response.json()
 
   question.innerHTML = data[Math.floor(Math.random() * (Object.keys(data).length) - 1)];
