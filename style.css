@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@900&display=swap');
+
+body{
+    background-color: rgb(255, 238, 0);
+}
+
+.elements{
+    margin-top: 35vh;
+    text-align: center;
+}
+
+button{
+    margin-top: 3vh;
+    margin: 1vh;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+    border-width: 3px;
+    background-color: white;
+    font-weight: bold;
+    box-shadow: 10px 10px 10px rgb(161, 149, 11);
+}
+
+button:hover{
+    background-color: rgb(239, 239, 239);
+    box-shadow: 5px 5px 10px rgb(161, 149, 11);
+}
+
+.question {
+    animation-name: fadein;
+    animation-duration: 2s;
+    text-transform: uppercase;
+    margin-left: 50px;
+    margin-right: 50px;
+    /* font-family: 'Sora', sans-serif; */
+    font-family: 'Work Sans', sans-serif;
+
+}
+
+
+@keyframes fadein {
+    from {color: rgba(0, 0, 0, 0) }
+    to {color: rgb(0, 0, 0)}
+}

@@ -1,0 +1,281 @@
+Do you call all dogs “puppies?”
+Do you like piña coladas?
+Do you ever pick your nose when you think nobody is watching?
+Have you ever worn underwear two days in a row?
+Have you ever lied about having seen a movie?
+Do you ever talk to yourself?
+Do you ever talk to your pets?
+Do you sing silly songs to your pets?
+Have you ever hidden a snack so that nobody else would find it and eat it first?
+Do you think you would be a good ninja?
+Do you ever narrate your life inside your head as if you were in a movie?
+Do you still believe in Santa?
+Do you sing in the shower?
+Do you talk in your sleep?
+Have you ever had a crush on a cartoon character?
+Would you ever date someone who looked exactly like a relative?
+If a future version of you time traveled to this moment, do you think the two of you would get along?
+Do you have an embarrassing nickname?
+Does what happens in Vegas really stay in Vegas?
+Have you ever lied about your birthday to get a free dessert?
+Have you ever ordered takeout to avoid doing dishes?
+Have you ever caught yourself telling someone “when I was your age…”
+Have you ever cheated at a board game?
+Do you typically learn the naughty words in other languages before learning regular words?
+Are you secretly an owl inside a human robot?
+Have you ever made a ridiculous impulse purchase?
+Have you ever told an outrageous lie to a child?
+Have you ever stolen from a kid’s Halloween candy stash?
+If you learned that I was secretly a spy, would you be surprised?
+Do you vote?
+Do you drive?
+Do you live alone?
+Are you married?
+Do you have kids?
+Do you have pets?
+Are you an only child?
+Do you work full time?
+Do you like your job?
+Do you have a second job?
+Did you go to college?
+Are you working in a field you went to school for?
+Did you go to graduate school?
+Do you have any hobbies?
+Have you ever met a celebrity?
+Have you ever been on TV?
+Have you traveled to another country?
+Have you been to New York City?
+Do you have a hidden talent?
+Do you drink coffee?
+Do you play sports?
+Have you ever performed on stage?
+Have you ever been in a band?
+Do you like cilantro?
+Do you believe in ghosts?
+Are you watching any TV shows at the moment?
+Have you read any good books lately?
+Would you ever appear on a gameshow?
+Are you a Harry Potter fan?
+Have you known any of your friends since childhood?
+Have you ever lived in another country?
+Do you speak more than one language?
+Do you know how to code?
+Do you own Bitcoin?
+Do you bake?
+Have you ever taken a road trip?
+Have you ever gotten a speeding ticket?
+Have you been to a live rock concert in the past year?
+Have you ever done stand up comedy?
+Can you recite Pi to more than 10 digits?
+Are you a twin or triplet?
+Have you ever been part of a wedding party?
+Do you like riding motorcycles?
+Do you pay attention to the news?
+Have you ever written a song for someone?
+Do you have a best friend?
+Do you have any siblings?
+Are your brothers and sisters annoying?
+Can you count to 1000?
+Are you afraid of the dark?
+Do you have a favorite superhero?
+Do you know your mom’s and dad’s first names?
+Do your parents ever embarrass you?
+Do you have a favorite dinosaur?
+Do you know why the sky is blue?
+Can you spell onomatopoeia?
+Have you ever lied to your parents?
+Do you like ice cream?
+Do you like broccoli?
+Have you ever won a contest?
+Have you ever played on a sports team?
+Do you help your parents with chores?
+Have you ever been grounded?
+Do you have a favorite aunt or uncle?
+Have you ever broken a bone?
+Have you ever had stitches?
+Do you know how to cook?
+Do you know how to ride a bike?
+Do you know how to swim?
+Do you like spiders?
+Have you ever been to summer camp?
+Do you have an imaginary friend?
+Have you ever caught a fish?
+Have you ever been to a sleepover?
+Have you ever seen a lion up close?
+Can you make a dolphin noise?
+Have you ever moved to a new city?
+Have you ever read a 100 page book?
+Do you feel like you belong at work?
+Is this your first job?
+Is this the job you dreamed of when you were a child?
+Do you enjoy your job?
+Do you ever look up your coworkers on social media?
+Have you ever stolen a coworker’s lunch from the break room fridge?
+Do you like to work while listening to music?
+Do you enjoy working on group projects?
+If you won the lottery would you still continue working?
+Have you ever had an awful interview?
+Have you ever been a manager?
+Would you work in a lower paying profession if it meant you would be happier?
+Do you know how to send a fax?
+Do you ever procrastinate during work?
+Have you ever played a prank on your boss?
+Would you hang out with your coworkers outside of work?
+Do you like to work early in the morning?
+Do you ever work past midnight?
+Do you ever check emails off the clock?
+Have you ever quit a job without giving two weeks notice?
+Have you ever worked for a family member?
+Do you like working with data?
+Do you prefer creative projects?
+Do you prefer to get guidelines rather than specific instructions?
+Do you like working by yourself?
+Do you keep your desk clean?
+Are you still friends with past coworkers?
+Do you regularly achieve inbox zero?
+Are you in charge of any big projects?
+Do you enjoy being a leader?
+Do you work well under pressure?
+Do you usually meet deadlines?
+Have you ever worked in a different industry?
+Do you enjoy working directly with clients?
+Have you ever taken an unflattering employee ID picture?
+Have you ever accidentally hit “reply all” on an email?
+If there is a sheet cake up for grabs in the office kitchen, do you take a piece?
+Do you like working from home?
+Would you betray a friend for a million dollars?
+Would you sacrifice a loved one to save a dozen strangers?
+If given the opportunity, would you live your entire life over?
+Do you believe in an afterlife?
+If you could know what other people really thought of you, would you want to know?
+If you could find out every person who ever had a crush on you, would you?
+If a stranger told you they knew a dark secret about your parents, would you want to find out what it was?
+Would you risk your life to save a stranger?
+Would you take the blame for a major crime to save a best friend’s life?
+Do you think justice really exists?
+If you were adopted, would you want to meet your biological parents?
+Would you fake your own death to save your family?
+Would you want to be a millionaire if it meant you would never find true love?
+If you could find out how you were going to die, would you want to know?
+If you could have certain memories erased, would you do it?
+If a stranger offered to give your family 1 million dollars if you go to jail for 10 years, would you do it?
+Would you ever start a romantic relationship if you knew for sure you were bound to part ways in three years?
+If an authority figure accused one of your loved ones of doing something terrible, would you believe them outright?
+Would you accept your dream job if one of the conditions was not communicating with your family and friends for one year?
+If you were appointed to a committee that decided who to grant organ transplants, would you have a hard time deciding who to help?
+If you could bring a loved one back to life but they would have no memory of you, would you do it?
+If you found out the world was ending in 30 minutes, do you know what you would do in that half hour?
+If everything were to end tomorrow, would you be happy with how your life turned out?
+Do you think you will have any regrets when you’re 90?
+If you could gain magical powers but lose one of your six senses, would you do it?
+Have you ever taken a personality test?
+Do you know your star sign?
+Do you have any collections?
+Do you have any scars?
+Do you check your horoscope?
+Do you believe in psychics?
+Do you have a secret talent?
+Have you ever broken a bone?
+Have you ever broken a law?
+Do you like your hometown?
+Have you ever pulled a successful prank?
+Do you believe in any conspiracy theories?
+Do you prefer dogs to cats?
+Do you have your wisdom teeth?
+Have you ever had a lucid dream?
+Have you ever buried a time capsule?
+Have you ever sung in front of a crowd?
+Do you have an irrational fear/phobia?
+Are you scared of heights?
+Have you ever watched a horror movie by yourself?
+Are you good with insects?
+Have you ever held a snake?
+Are you claustrophobic?
+Have you ever fainted?
+Have you ever gotten surgery?
+Have you ever had a near-death experience?
+Have you ever had a paranormal experience?
+Have you ever thrown up in public?
+Have you ever sent a text to the wrong friend?
+Have you ever broken something that wasn’t yours?
+Are you scared of the dark?
+Have you ever been to a haunted house?
+Have you ever gotten lost in the wilderness?
+Have you ever gotten sleep paralysis?
+Have you ever fallen in public?
+Have you ever accidentally liked an old photo?
+Have you ever memorized a TikTok dance?
+Do you have a secret social media account?
+Do you care for celebrity drama?
+Have you ever cried to Drivers Licence?
+Have you ever met a celebrity?
+Have you ever gotten an autograph?
+Do you follow trends?
+In Friends, do you think Ross and Rachel were on a break?
+Do you like to gossip?
+Have you ever tried a fad diet?
+Have you ever gotten a makeover?
+Are you extra?
+Have you ever gone vegan or vegetarian?
+Do you respond to texts fast?
+Have you ever posted to a YouTube channel?
+Have you ever auditioned for an acting role?
+Have you ever been on TV?
+Do you ever try DIY’s?
+Have you ever binged a Netflix series in one night?
+Do you get ASMR?
+Do you procrastinate?
+Have you ever skipped school?
+Have you ever cheated on a test?
+Can you be peer pressured?
+Have you ever been bullied?
+Have you ever failed a test?
+Have you ever failed a class?
+Have you ever been fired?
+Have you ever searched up book summaries so you wouldn’t have to read a book?
+Can you write in cursive?
+Have you ever gotten detention?
+Have you ever had an embarrassing job interview?
+Have you ever accidentally called a teacher/co-worker mom or dad?
+Have you ever faked your parent’s signature on a permission slip?
+Have you ever read an entire book series?
+Are your parents strict?
+Have you ever written the wrong date on an assignment to look like you finished earlier?
+Have you ever snuck out of the house?
+Have you ever lied to your parents about your whereabouts?
+Have you ever stolen?
+Have you ever been in a fight?
+Have you ever developed a crush on someone you just met?
+Have you ever had a cavity?
+Have you ever spilled something on someone?
+Have you ever been in a food fight?
+Have you ever lost a bet?
+Have you ever used a pickup line?
+Have you ever cut bangs?
+Have you ever pulled an all-nighter?
+Have you ever called someone the wrong name?
+Have you ever had a crush on friend’s sibling?
+Are you friends with an ex?
+Have you ever eaten a bug?
+Have you ever called someone the wrong name?
+Do you exercise?
+Do you play an instrument?
+Have you ever tried martial arts?
+Do you keep a diary?
+Do you have any collections?
+Are you double jointed?
+Can you do the splits?
+Do you have any trophies?
+Have you cried in the last week?
+Do you like sushi?
+Are you a picky eater?
+Are you a messy person?
+Do you have any weird food combos?
+Do you talk to yourself when you’re alone?
+Do you find chewing sounds annoying?
+Do you have a tattoo?
+Have you ever sleep-walked?
+Have you ever been to another country?
+Have you ever eaten a bug?
+Have you ever had an exotic pet?
+Have you ever been to another country?
