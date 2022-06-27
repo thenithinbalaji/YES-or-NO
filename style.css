@@ -40,26 +40,23 @@ button{
 
 .stats-percentage{
     width: 50px;
-    height: 45px;
     background-color: black;
     color: white;
     font-size: 23px;
-    padding-top: 12px;
-    padding-left: 10px;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .stats-text{
     width: 200px;
-    height: 38px;
     background-color: white;
     color: black;
     border-color: black;
     border-width: 3px;
     border-style: solid;
-    padding-top: 8px;
-    padding-left: 10px;
-    padding-bottom: 5px;
-    overflow:hidden;
+    padding: 7px;
 }
 
 @keyframes fadein {

@@ -41,7 +41,7 @@ async function randomqn(clicked){
   if(previndex != -1){
 
     document.getElementById("stats-text").innerHTML = 
-    "answered " + clicked.id.slice(6).toUpperCase() + " to<br>" + data[previndex].slice(0, 24) + "..."
+    "answered " + clicked.id.slice(6).toUpperCase() + " to<br>" + data[previndex]
 
     if(clicked.id == "buttonyes")
     percent = ans[previndex]
