@@ -62,7 +62,7 @@ Do you like to gossip?
 Do you work full time?
 Have you ever fainted?
 Are you a messy person?
-Are you claustrophobic?
+Are you claustro phobic?
 Are you double jointed?
 Is this your first job?
 Are your parents strict?
@@ -275,7 +275,7 @@ Are you in charge of any big projects?
 Can you see the moon from your window?
 Do you believe in love at first sight?
 Do you ever procrastinate during work?
-Do you have an irrational fear/phobia?
+Do you have an irrational fear?
 Have you ever been kissed in the rain?
 Have you ever been to a haunted house?
 Have you ever been to another country?
