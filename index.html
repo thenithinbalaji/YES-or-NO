@@ -13,18 +13,19 @@
 </head>
 <body>
 
-    <!-- <div class = "stats">
-        <div class = "stats-percentage">80%</div>
-        <div class = "stats-text">to previous question</div>
+    <div class = "stats" id = "stats">
+        
+        <div class = "stats-percentage" id = "stats-percentage">00 %</div>
+        <div class = "stats-text" id = "stats-text" >answered YES to<br>previous question</div>
 
-    </div> -->
+    </div>
 
     <div class = "elements">
         
         <h1 class = "question" id = "question">Are you ready!</h1>
     
-        <button id = "buttonyes" onclick = "next()">YES</button><br>
-        <button id = "buttonno"  onclick = "next()">NO</button>
+        <button id = "buttonyes" onclick = "next(this)">YES</button><br>
+        <button id = "buttonno"  onclick = "next(this)">NO</button>
     
     </div>
     
