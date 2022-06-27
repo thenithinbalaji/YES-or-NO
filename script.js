@@ -49,7 +49,7 @@ async function randomqn(clicked){
     else
     percent = 100 - ans[previndex]
     
-    document.getElementById("stats-percentage").innerHTML = percent.toString() + " " + "%"
+    document.getElementById("stats-percentage").innerHTML = percent.toString() + "%"
     document.getElementById("stats").style.visibility = "visible";
   }
     
