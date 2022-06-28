@@ -1,4 +1,4 @@
-const cachelist = []
+var cachelist = []
 var previndex = -1
 
 function next(clicked){
@@ -54,5 +54,10 @@ async function randomqn(clicked){
   }
     
   previndex = qnno;
+
+  // console.log(cachelist)
+  if(cachelist.length == Object.keys(data).length){
+    cachelist = []
+  }
 }
 
