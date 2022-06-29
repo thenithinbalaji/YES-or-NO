@@ -18,7 +18,8 @@ button{
     border-width: 3px;
     background-color: white;
     font-weight: bold;
-    box-shadow: 10px 10px 10px rgb(161, 149, 11);
+    box-shadow: 5px 5px 10px rgb(161, 149, 11);
+    cursor: pointer;
 }
 
 .question {
@@ -59,14 +60,42 @@ button{
     padding: 7px;
 }
 
+.credits {
+    position:absolute;
+    right: 0;
+    bottom:0;
+    margin: 2rem;
+    font-size: 0.75rem;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    border-radius: 3em;
+    font-family: 'Work Sans', sans-serif;
+    box-shadow: 5px 5px 10px rgb(161, 149, 11);
+    cursor: pointer;
+    border-width: 0.2em;
+}
+
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
 @keyframes fadein {
     from {color: rgba(0, 0, 0, 0) }
     to {color: rgb(0, 0, 0)}
 }
 
 @media(hover: hover) {
-    button:hover{
-        background-color: rgb(210, 210, 210);
-        box-shadow: 5px 5px 10px rgb(161, 149, 11);
+    button:hover, .credits:hover{
+        background-color: rgb(224, 224, 224);
+        box-shadow: 2.5px 2.5px 10px rgb(161, 149, 11);
+    }
+}
+
+@media (max-width: 1000px) {
+    .credits{
+        visibility: hidden;
     }
 }
