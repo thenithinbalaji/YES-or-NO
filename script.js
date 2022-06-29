@@ -1,5 +1,7 @@
 var cachelist = []
 var previndex = -1
+var data 
+var ans 
 
 function next(clicked){
     //put random qn in question h1 element and set stats
@@ -20,14 +22,16 @@ function next(clicked){
 async function randomqn(clicked){
 
   //change this in production
-  
-  const response = await fetch("https://raw.githubusercontent.com/thenithinbalaji/YES-or-NO/main/assets/questions.json")
-  const response2 = await fetch("https://raw.githubusercontent.com/thenithinbalaji/YES-or-NO/main/assets/answers.json")
-  // const response = await fetch("http://192.168.0.111:5500//assets/questions.json")
-  // const response2 = await fetch("http://192.168.0.111:5500//assets/answers.json")
-  
-  const data = await response.json()
-  const ans = await response2.json()
+  if(previndex == -1){
+
+    const response = await fetch("https://raw.githubusercontent.com/thenithinbalaji/YES-or-NO/main/assets/questions.json")
+    const response2 = await fetch("https://raw.githubusercontent.com/thenithinbalaji/YES-or-NO/main/assets/answers.json")
+    // const response = await fetch("http://192.168.0.111:5500//assets/questions.json")
+    // const response2 = await fetch("http://192.168.0.111:5500//assets/answers.json")
+
+    data = await response.json()
+    ans = await response2.json()
+  }
 
   qnno = Math.floor(Math.random() * (Object.keys(data).length))
   while(cachelist.includes(qnno)){
@@ -55,7 +59,7 @@ async function randomqn(clicked){
     
   previndex = qnno;
 
-  // console.log(cachelist)
+  // repeat qns endlessly
   if(cachelist.length == Object.keys(data).length){
     cachelist = []
   }
