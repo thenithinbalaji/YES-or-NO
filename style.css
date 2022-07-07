@@ -65,6 +65,9 @@ button{
     right: 0;
     bottom:0;
     margin: 2rem;
+}
+
+.credits-text{
     font-size: 0.75rem;
     background-color: rgb(255, 255, 255);
     border-style: solid;
@@ -88,7 +91,7 @@ a, a:hover, a:focus, a:active {
 }
 
 @media(hover: hover) {
-    button:hover, .credits:hover{
+    button:hover, .credits-text:hover{
         background-color: rgb(224, 224, 224);
         box-shadow: 2.5px 2.5px 10px rgb(161, 149, 11);
     }
