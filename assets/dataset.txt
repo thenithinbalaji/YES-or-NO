@@ -1,3 +1,4 @@
+YES or NO
 Are you mad?
 Do you bake?
 Do you vote?
@@ -16,6 +17,8 @@ Do you like cats?
 Do you like dogs?
 Are you religious?
 Do you like girls?
+Do you like kids? 
+Do you like lions?
 Do you like pizza?
 Do you like sushi?
 Do you live alone?
@@ -34,7 +37,10 @@ Do you use YouTube?
 Do you drink coffee?
 Do you faint easily?
 Do you keep a diary?
+Do you like donkeys?
+Do you like monkeys?
 Do you like spiders?
+Do you own Dogecoin?
 Are you a misogynist?
 Do you follow trends?
 Do you have a tattoo?
@@ -62,9 +68,8 @@ Do you like to gossip?
 Do you work full time?
 Have you ever fainted?
 Are you a messy person?
-Are you claustro phobic?
 Are you double jointed?
-Is this your first job?
+Are you claustro phobic?
 Are your parents strict?
 Did you ever almost die?
 Do you have any hobbies?
@@ -149,6 +154,7 @@ Have you ever been in a band?
 Have you ever failed a class?
 Have you ever fallen in love?
 Have you ever gotten surgery?
+Have you ever kissed someone?
 Have you ever skipped school?
 Did you enjoy going to school?
 Did you ever try DIY projects?
@@ -174,6 +180,7 @@ Do you believe in an afterlife?
 Do you call all dogs “puppies?”
 Do you consider yourself funny?
 Do you ever work past midnight?
+Do you have an irrational fear?
 Do you know how to ride a bike?
 Do you like riding motorcycles?
 Do you think people can change?
@@ -185,6 +192,7 @@ Have you ever liked a neighbor?
 Have you ever purchased a home?
 Have you ever seen someone die?
 Have you ever tried a fad diet?
+Have you had a crush on anyone?
 Did you ever have a best friend?
 Do you care for celebrity drama?
 Do you have a favorite dinosaur?
@@ -270,12 +278,12 @@ Have you ever had an awful interview?
 Have you ever snuck out of the house?
 Have you had a near-death experience?
 Have you traveled to another country?
+Is your house not under surveillance?
 Are you friends with any of your exes?
 Are you in charge of any big projects?
 Can you see the moon from your window?
 Do you believe in love at first sight?
 Do you ever procrastinate during work?
-Do you have an irrational fear?
 Have you ever been kissed in the rain?
 Have you ever been to a haunted house?
 Have you ever been to another country?
@@ -312,6 +320,7 @@ Have you ever gotten into a car accident?
 Have you ever read an entire book series?
 Have you ever worked for a family member?
 Have you ever written a song for someone?
+Is lion fit to be The King of the forest?
 Would you be in a poly love relationship?
 Would you compliment a complete stranger?
 Are you still friends with past coworkers?
@@ -325,7 +334,6 @@ Have you ever been lost in the wilderness?
 Have you ever been the subject of a movie?
 Have you ever had a near-death experience?
 Have you ever had a paranormal experience?
-Have you ever kissed someone in this room?
 Have you ever loved someone you shouldn’t?
 Have you ever played a prank on your boss?
 Have you ever posted to a YouTube channel?
@@ -333,7 +341,6 @@ Have you ever run away from your problems?
 Have you ever seen your best friend naked?
 Have you ever woke up from sleep by 11 am?
 Have you ever written someone a love poem?
-When is your house not under surveillance?
 Will you ever cry over love or heartbreak?
 Did you believe in the north pole as a kid?
 Did you ever get in trouble in high school?
@@ -356,7 +363,6 @@ Have you ever called someone the wrong name?
 Have you ever fainted from drinking so much?
 Have you ever faked your parent’s signature?
 Have you ever gotten lost in the wilderness?
-Have you had a crush on anyone in this room?
 Would you ever become a world-class athlete?
 Would you ever tattoo someone’s name on you?
 Would you ever watch porn with your partner?
@@ -439,7 +445,6 @@ Have you even been humiliated in front of your crush?
 Have you ever failed a class that you needed to pass?
 Have you ever gone more than 24 hours without eating?
 Is social class important when choosing your partner?
-Is this the job you dreamed of when you were a child?
 Would you kiss someone inside your circle of friends?
 Would you let someone see your Google search history?
 Did you memorize the menu at your favorite restaurant?
@@ -465,7 +470,6 @@ Have you ever stolen from a kid’s Halloween candy stash?
 Have you ever taken an unflattering employee ID picture?
 If you won the lottery would you still continue working?
 Can you eat your favourite food for a straight two weeks?
-Do you have rest of mind in your job/career/relationship?
 Have you ever quit a job without giving two weeks notice?
 Have you ever slept with two different people in one day?
 In Friends, do you think Ross and Rachel were on a break?
