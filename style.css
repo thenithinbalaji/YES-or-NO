@@ -10,8 +10,7 @@ body{
 }
 
 button{
-    margin-top: 3vh;
-    margin: 1vh;
+    margin: 3vh 1vh 1vh 1vh;
     width: 150px;
     height: 50px;
     border-radius: 20px;
