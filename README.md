@@ -8,7 +8,7 @@
   </a>
 </p>
 
-![image](assets/screenshot.png)
+![Website Screenshot](assets/screenshot.png)
 
 ## Deployed Site
 [Github Pages](https://thenithinbalaji.github.io/YES-or-NO/)
