@@ -3,12 +3,16 @@
 </h3>
  
  <p align="center">
-  <a href="https://github.com/thenithinbalaji/YES-or-NO">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
   
   <hr />
-  <img src="assets/screenshot.png" />
+  
+  <a href="#">
+    <img src="assets/screenshot.png" />
+  </a>
+  
 </p>
 
 ## Deployed Site
