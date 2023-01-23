@@ -1,28 +1,28 @@
 var cachelist = []
 var previndex = -1
-var data 
-var ans 
+var data
+var ans
 
-function next(clicked){
-    //put random qn in question h1 element and set stats
-    randomqn(clicked)
+function next(clicked) {
+  //put random qn in question h1 element and set stats
+  randomqn(clicked)
 
-    //play press audio
-    const audio = new Audio('assets/press.mp3');
-    audio.play();
+  //play press audio
+  const audio = new Audio('assets/press.mp3');
+  audio.play();
 
-    //restart animations
-    question = document.getElementById("question")
-    question.style.animation = 'none';
-    question.offsetHeight;
-    question.style.animation = null; 
+  //restart animations
+  question = document.getElementById("question")
+  question.style.animation = 'none';
+  question.offsetHeight;
+  question.style.animation = null;
 
 }
 
-async function randomqn(clicked){
+async function randomqn(clicked) {
 
   //change this in production
-  if(previndex == -1){
+  if (previndex == -1) {
 
     const response = await fetch("https://raw.githubusercontent.com/thenithinbalaji/YES-or-NO/main/assets/questions.json")
     const response2 = await fetch("https://raw.githubusercontent.com/thenithinbalaji/YES-or-NO/main/assets/answers.json")
@@ -34,7 +34,7 @@ async function randomqn(clicked){
   }
 
   qnno = Math.floor(Math.random() * (Object.keys(data).length))
-  while(cachelist.includes(qnno)){
+  while (cachelist.includes(qnno)) {
     qnno = Math.floor(Math.random() * (Object.keys(data).length))
   }
 
@@ -42,26 +42,25 @@ async function randomqn(clicked){
   cachelist.push(qnno);
 
   //changing STATS
-  if(previndex != -1){
+  if (previndex != -1) {
 
-    document.getElementById("stats-text").innerHTML = 
-    "answered " + clicked.id.slice(6).toUpperCase() + " to<br>" + data[previndex]
+    document.getElementById("stats-text").innerHTML =
+      "answered " + clicked.id.slice(6).toUpperCase() + " to<br>" + data[previndex]
 
-    if(clicked.id == "buttonyes")
-    percent = ans[previndex]
+    if (clicked.id == "buttonyes")
+      percent = ans[previndex]
 
     else
-    percent = 100 - ans[previndex]
-    
+      percent = 100 - ans[previndex]
+
     document.getElementById("stats-percentage").innerHTML = percent.toString() + "%"
     document.getElementById("stats").style.visibility = "visible";
   }
-    
+
   previndex = qnno;
 
   // repeat qns endlessly
-  if(cachelist.length == Object.keys(data).length){
+  if (cachelist.length == Object.keys(data).length) {
     cachelist = []
   }
 }
-
